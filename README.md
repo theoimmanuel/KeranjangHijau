@@ -5,7 +5,7 @@ Kelompok KeranjangHijau
 
 Ketua Kelompok:
 
-Anggota 1:
+Anggota 1: Theo Immanuel Sanyoto - 24/534368/TK/59227
 
 Anggota 2:
 
