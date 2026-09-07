@@ -4,10 +4,8 @@ KeranjangHijau merupakan platform yang memungkinkan pembeli online dan bisnis e-
 
 Kelompok KeranjangHijau
 
-Ketua Kelompok:
+Ketua Kelompok: Amelia Ocha Maharani - 24/534372/TK/59229  
 
 Anggota 1: Theo Immanuel Sanyoto - 24/534368/TK/59227
 
-Anggota 2: Amelia Ocha Maharani - 24/534372/TK/59229
-
-Anggota 3: Juan Christopher Reinaldo Sipayung - 24/544528/TK/60526
+Anggota 2: Juan Christopher Reinaldo Sipayung - 24/544528/TK/60526  
