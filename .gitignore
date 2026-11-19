@@ -1,1 +1,49 @@
+# --- Lokal / Claude ---
 .claude
+CLAUDE.md
+CLAUDE.PDF
+
+# --- Rahasia & konfigurasi lokal (JANGAN di-commit) ---
+appsettings.Local.json
+**/appsettings.Local.json
+.env
+.env.*
+!.env.example
+
+# --- Hasil build .NET ---
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+artifacts/
+publish/
+
+# --- Test & coverage ---
+[Tt]est[Rr]esult*/
+*.trx
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# --- NuGet ---
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# --- IDE / editor ---
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+# --- OS ---
+.DS_Store
+Thumbs.db

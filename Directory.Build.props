@@ -1,0 +1,10 @@
+<Project>
+  <!-- Pengaturan bersama untuk semua proyek di solusi KeranjangHijau. -->
+  <PropertyGroup>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <!-- Semua warning nullable (CS8600–CS8799, dll.) diperlakukan sebagai error. -->
+    <WarningsAsErrors>$(WarningsAsErrors);Nullable</WarningsAsErrors>
+  </PropertyGroup>
+</Project>
