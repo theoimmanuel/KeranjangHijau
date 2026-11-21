@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "message": "Success Get Waybill",
+    "code": 200,
+    "status": "success"
+  },
+  "data": {
+    "delivered": true,
+    "summary": {
+      "courier_code": "jne",
+      "courier_name": "Jalur Nugraha Ekakurir (JNE)",
+      "waybill_number": "CONTOH123456",
+      "service_code": "REG",
+      "waybill_date": "2026-11-15",
+      "shipper_name": "TOKO CONTOH",
+      "receiver_name": "PENERIMA CONTOH",
+      "origin": "JAKARTA BARAT",
+      "destination": "YOGYAKARTA",
+      "status": "DELIVERED"
+    },
+    "details": {
+      "waybill_number": "CONTOH123456",
+      "waybill_date": "2026-11-15",
+      "waybill_time": "10:00",
+      "weight": "1",
+      "origin": "JAKARTA BARAT",
+      "destination": "YOGYAKARTA",
+      "shipper_name": "TOKO CONTOH",
+      "shipper_city": "JAKARTA BARAT",
+      "receiver_name": "PENERIMA CONTOH",
+      "receiver_city": "YOGYAKARTA"
+    }
+  }
+}
