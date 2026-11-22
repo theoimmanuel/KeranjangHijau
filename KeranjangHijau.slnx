@@ -3,6 +3,7 @@
   <Folder Name="/backend/src/">
     <Project Path="backend/src/KeranjangHijau.Core/KeranjangHijau.Core.csproj" />
     <Project Path="backend/src/KeranjangHijau.Infrastructure/KeranjangHijau.Infrastructure.csproj" />
+    <Project Path="backend/src/KeranjangHijau.WebApi/KeranjangHijau.WebApi.csproj" />
   </Folder>
   <Folder Name="/backend/tests/">
     <Project Path="backend/tests/KeranjangHijau.Tests/KeranjangHijau.Tests.csproj" />
