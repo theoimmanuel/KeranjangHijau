@@ -1,0 +1,26 @@
+[
+  { "skenario": "Satu pulau (Jawa), ada berat",                  "kodeKurir": "jne",      "nomorResi": "JNE1001000001",  "kotaAsal": "Jakarta",        "kotaTujuan": "Bandung",        "layanan": "REG",         "beratKg": 1.2 },
+  { "skenario": "Beda pulau reguler (Jawa-Sulawesi), tanpa berat", "kodeKurir": "jne",    "nomorResi": "JNE1001000002",  "kotaAsal": "Surabaya",       "kotaTujuan": "Makassar",       "layanan": "REG",         "beratKg": null },
+  { "skenario": "Beda pulau ekspres (Jawa-Sumatra), ada berat",  "kodeKurir": "jne",      "nomorResi": "JNE1001000003",  "kotaAsal": "Jakarta",        "kotaTujuan": "Medan",          "layanan": "YES",         "beratKg": 0.8 },
+  { "skenario": "Satu pulau (Jawa), tanpa berat",                "kodeKurir": "jne",      "nomorResi": "JNE1001000004",  "kotaAsal": "Yogyakarta",     "kotaTujuan": "Semarang",       "layanan": "OKE",         "beratKg": null },
+
+  { "skenario": "Satu pulau (Jawa), ada berat",                  "kodeKurir": "jnt",      "nomorResi": "JP1002000001",   "kotaAsal": "Tangerang",      "kotaTujuan": "Malang",         "layanan": "EZ",          "beratKg": 2.5 },
+  { "skenario": "Beda pulau reguler (Jawa-Kalimantan), ada berat", "kodeKurir": "jnt",    "nomorResi": "JP1002000002",   "kotaAsal": "Bekasi",         "kotaTujuan": "Pontianak",      "layanan": "EZ",          "beratKg": 3.0 },
+  { "skenario": "Beda pulau reguler (Jawa-Sumatra), tanpa berat", "kodeKurir": "jnt",     "nomorResi": "JP1002000003",   "kotaAsal": "Bogor",          "kotaTujuan": "Palembang",      "layanan": "EZ",          "beratKg": null },
+  { "skenario": "Beda pulau, layanan tidak diketahui (dianggap reguler), tanpa berat", "kodeKurir": "jnt", "nomorResi": "JP1002000004", "kotaAsal": "Padang", "kotaTujuan": "Jakarta", "layanan": null, "beratKg": null },
+
+  { "skenario": "Satu pulau (Jawa), ada berat",                  "kodeKurir": "sicepat",  "nomorResi": "004710030001",   "kotaAsal": "Bandung",        "kotaTujuan": "Surakarta",      "layanan": "REG",         "beratKg": 0.5 },
+  { "skenario": "Beda pulau ekspres (Jawa-Bali), ada berat",     "kodeKurir": "sicepat",  "nomorResi": "004710030002",   "kotaAsal": "Surabaya",       "kotaTujuan": "Denpasar",       "layanan": "BEST",        "beratKg": 1.0 },
+  { "skenario": "Satu pulau (Sumatra), paket berat",             "kodeKurir": "sicepat",  "nomorResi": "004710030003",   "kotaAsal": "Medan",          "kotaTujuan": "Pekanbaru",      "layanan": "GOKIL",       "beratKg": 15.0 },
+  { "skenario": "Beda pulau reguler (Jawa-Kalimantan), tanpa berat", "kodeKurir": "sicepat", "nomorResi": "004710030004", "kotaAsal": "Jakarta",        "kotaTujuan": "Banjarmasin",    "layanan": "REG",         "beratKg": null },
+
+  { "skenario": "Satu pulau (Jawa), ada berat",                  "kodeKurir": "anteraja", "nomorResi": "10000400000001", "kotaAsal": "Jakarta",        "kotaTujuan": "Yogyakarta",     "layanan": "Regular",     "beratKg": 0.7 },
+  { "skenario": "Beda pulau ekspres (Jawa-Kalimantan), tanpa berat", "kodeKurir": "anteraja", "nomorResi": "10000400000002", "kotaAsal": "Semarang",   "kotaTujuan": "Balikpapan",     "layanan": "Next Day",    "beratKg": null },
+  { "skenario": "Satu pulau (Sulawesi), ada berat",              "kodeKurir": "anteraja", "nomorResi": "10000400000003", "kotaAsal": "Makassar",       "kotaTujuan": "Palu",           "layanan": "Regular",     "beratKg": 4.2 },
+  { "skenario": "Kota asal = kota tujuan (jarak minimum), ada berat", "kodeKurir": "anteraja", "nomorResi": "10000400000004", "kotaAsal": "Bandung",     "kotaTujuan": "Bandung",        "layanan": "Same Day",    "beratKg": 0.3 },
+
+  { "skenario": "Beda pulau reguler (Jawa-Papua), ada berat",    "kodeKurir": "pos",      "nomorResi": "POS2405000001",  "kotaAsal": "Malang",         "kotaTujuan": "Jayapura",       "layanan": "Pos Reguler", "beratKg": 2.0 },
+  { "skenario": "Beda pulau reguler (Bali-Lombok), tanpa berat", "kodeKurir": "pos",      "nomorResi": "POS2405000002",  "kotaAsal": "Denpasar",       "kotaTujuan": "Mataram",        "layanan": "Pos Reguler", "beratKg": null },
+  { "skenario": "Beda pulau ekspres (Jawa-Kalimantan), ada berat", "kodeKurir": "pos",    "nomorResi": "POS2405000003",  "kotaAsal": "Jakarta",        "kotaTujuan": "Samarinda",      "layanan": "Pos Express", "beratKg": 1.5 },
+  { "skenario": "Satu pulau (Sumatra), ada berat",               "kodeKurir": "pos",      "nomorResi": "POS2405000004",  "kotaAsal": "Banda Aceh",     "kotaTujuan": "Bandar Lampung", "layanan": "Pos Reguler", "beratKg": 1.0 }
+]
